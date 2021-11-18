@@ -10,5 +10,5 @@ In, this I have implemented composite loss, employing SSIM,L1 loss, perceptual l
 
 
 
-![image](https://user-images.githubusercontent.com/62832721/142353039-849c365b-0a4d-470d-a271-b66728b87ce8.png)
 
+<img src="https://user-images.githubusercontent.com/62832721/142353039-849c365b-0a4d-470d-a271-b66728b87ce8.png" width="900" height="450">
